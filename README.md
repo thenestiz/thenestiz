@@ -1,7 +1,8 @@
 
 <div align="center">
 
-<img src="./assets/banner.png" alt="NestIZ Banner" width="100%" />
+<img width="1500" height="500" alt="NestIZ" src="https://github.com/user-attachments/assets/9ed6656b-56eb-4a1c-a174-2d6d5096fb53" />
+
 
 <h1>NestIZ</h1>
 <p><em>Design decisions, already made.</em></p>
