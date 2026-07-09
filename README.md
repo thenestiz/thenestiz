@@ -44,7 +44,7 @@ long-term maintainability in mind — not just something that looks good in a sc
 <div align="center">
   
 <h2>Technologies</h2>
-
+<br>
 <h3>Core Technologies</h3>
 
 <p>
@@ -55,6 +55,9 @@ long-term maintainability in mind — not just something that looks good in a sc
 <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </p>
+
+<br> 
+
 <h3>Frameworks & Libraries</h3>
 <p>
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
