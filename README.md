@@ -86,11 +86,9 @@ Live demos are linked in each repository below, so you can try before you buy.
 <p>
 Browse our templates in the pinned repositories below. Each one includes a live demo
 link and full feature breakdown. Full source is available on purchase via
-<a href="https://thenestiz.gumroad.com/">Gumroad</a>.
+<a href="https://nestiz.vercel.app/">Our Website</a>.
 </p>
 
 <br/>
 
-<div align="center">
-<sub>Website — coming soon</sub>
-</div>
+
