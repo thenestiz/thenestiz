@@ -18,6 +18,7 @@
 <a href="https://nestiz.vercel.app/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-Website-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
 </a>
+
 <a href="https://x.com/thenestiz" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
 </a>
