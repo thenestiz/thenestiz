@@ -15,8 +15,8 @@
 
 <h3>🔗 Connect with us</h3>
 
-<a href="https://thenestiz.gumroad.com/">
-  <img src="https://img.shields.io/badge/-Gumroad-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black" alt="Gumroad" />
+<a href="https://nestiz.vercel.app/">
+  <img src="https://img.shields.io/badge/-Website-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
 </a>
 <a href="https://x.com/thenestiz">
   <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
